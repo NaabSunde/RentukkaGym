@@ -11,7 +11,7 @@
 
 ### Bikes
 - The seat's height locking mechanism in the newer bikes (and in one of the older bikes as well) isn't working
-- Bike is missing fo
+- One bike is missing foot straps
 - ~~The newer bikes screens are in "ERR1" state~~ Replaced the batteries
 - ~~One of the bikes is screeching loudly~~ Dissassembled the breaking pad and rotated it 180°
 - ~~One of the older bike's seats is not stable~~ Tightened the bolts
