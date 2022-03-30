@@ -1,4 +1,4 @@
-## Tenants' Committee's Gym Responsible's list
+## Tenants' Committee's Gym Attendant's list
 [(In Finnish)](README-FI.md) - [Link to my Instagram profile](https://www.instagram.com/s_u_n_d_e/)
 
 ### Issues
