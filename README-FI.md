@@ -1,59 +1,57 @@
-# Tenants' Committee's Gym Responsible's list
+# Kuntosalivastaavan lista
 [(In English)](README.md)
 
-# TODO: Translate
+## Korjauskohteet
 
-## Issues
+### Välineet
+- ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
+- ~~Alataljan V-kahda vaatii pientä huoltoa~~ Fiksattu
+- ~~Vatsalihasrullan pultti on kadonnut~~ Varapultti asennettu
+- ~~Alataljan penkki ei kosketa maahan~~ Säädetty
 
-### Equipment
-- ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
-- ~~The lower seated row's V-handle needs some attention~~ DIY fixed
-- ~~Abdominal roller is missing a bolt~~ Found a replacement
-- ~~Lower seated row's bench isn't adjusted correctly~~ Adjusted
+### Kuntopyörät
+- Satulan korkeudensäätö ei lukitu uusissa (ja toisessa vanhassa) pyörissä
+- Yhdestä pyörästä puuttuu jalkaremmit
+- ~~Uudemmat pyörät näyttävät "ERR1"-virhettä~~ Korjaantui patterien vaihdolla
+- ~~Yksi uusista pyöristä pitää metallista kahinaa~~ Vika korjaantui kääntämällä jarrupalaa 180°
+- ~~Vanhemman pyörän satula heiluu~~ Pultit kiristetty
 
-### Bikes
-- The seat's height locking mechanism in the newer bikes (and in one of the older bikes as well) isn't working
-- Bike is missing fo
-- ~~The newer bikes screens are in "ERR1" state~~ Replaced the batteries
-- ~~One of the bikes is screeching loudly~~ Dissassembled the breaking pad and rotated it 180°
-- ~~One of the older bike's seats is not stable~~ Tightened the bolts
+## Ehdotukset
 
-## Suggestions
-
-### Equipment
-- Fix the benches to each other or to the floor to prevent them from moving.
-- Change the narrower benches' padding to a wider one
-- **Purchases:**
-  - A small steel brush to clean knurlings
-  - Spare weight stickers for the equipment
-  - Set of heavier dumbbells (35, 40, 45, 50kg)
-  - Four 20kg plates
-  - A new bar
-  - Treadmill
-  - Jumping boxes
-  - Weight lifting straps
-  - More weights for the cable machines
-  - New leg press (maybe a Hack-squat machine?)
-  - More kettlebells
-  - Safety bars to the bench presses'
-  - A bar pad with larger circumference to the Smith machine
-  - ~~Bar pad~~ Delivered 
-  - ~~Elastic bands~~ Delivered
-  - ~~More attachments to the cable machines~~ Delivered
+### Välineet
+- FKiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi
+- Vaihda kapeamman penkin pehmuste leveämpään ja pitävämpään
+- **Ostot:**
+  - Pieni teräsharja tankojen karhennusten puhdistamiseen
+  - Varapainotarroja taljoihin ja muihin laitteisiin
+  - Painavempia käsipainoja (35, 40, 45, 50kg)
+  - Neljä 20kg levypainoa
+  - Uusi tanko
+  - Juoksumatto
+  - Hyppybokseja
+  - Vetoremmit
+  - Lisää painoja taljoihin
+  - Uusi jalkaprässi (ehkä Hack-kyykkylaite?)
+  - Lisää kahvakuulia
+  - Turvaraudallinen penkki tai irtonaiset raudat
+  - Suurempi tangonpehmuste Smith-kyykkylaitteen paksumpaa tankoa varten
+  - ~~Tangonpehmuste~~ Toimitettu
+  - ~~Kuminauhoja~~ Toimitettu
+  - ~~Lisää kahvoja taljoihin~~ Toimitettu
   - 
 
-### Premises
+### Tilat
 
-- Charger spot for phones, headphones, etc.
-- Adjusting the ventilation for the summer
-- Half-height curtains to block out some of the sun
-- Couple of industrial fans to circulate the air
-- ~~First-aid-box~~ Ordered, will be installed soon
-- ~~'Lost and found box' for found items~~ Added
+- Latauspiste puhelimille, kuulokkeille, jne.
+- Ilmastoinnin säätäminen kesää varten
+- Puolikorkeat verhot ikkunoihin vähentämään auringon porotusta
+- Muutamat teollisuustuulettimet kierrättämään ilmaa
+- ~~Ensiapulaatikko~~ Tilattu, asennetaan pian
+- ~~Löytätavaralaatikko~~ Toimitettu
 
-### Operation
-- Weight lifting room has been reported to cause disturbance to the tenant's of the A-building.
-- MobilePay account for donations for new purchases
+### Toiminta
+- Mave-tilan on raportoitu tuottavan häiriöitä A-talon asukkaille.
+- MobilePay-tili perustaminen kolehdin keräämiseksi 
 
-### Events
-- A weight lifting competetion? 
+### Tapahtumat
+- Painonnostokilpailut?
