@@ -4,6 +4,7 @@
 ### Korjauskohteet
 
 #### Välineet
+- [ ] Juoksumaton hihna taitaa olla entinen, toistaiseksi käyttökiellossa
 - [x] ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
 - [x] ~~Alataljan V-kahda vaatii pientä huoltoa~~ Fiksattu
 - [x] ~~Vatsalihasrullan pultti on kadonnut~~ Varapultti asennettu
