@@ -1,24 +1,24 @@
-# Asukastoimikunnan kuntosalivastaavan lista
+## Asukastoimikunnan kuntosalivastaavan lista
 [(In English)](README.md) - [Linkki Instagram-profiiliini](https://www.instagram.com/s_u_n_d_e/)
 
-## Korjauskohteet
+### Korjauskohteet
 
-### Välineet
+#### Välineet
 - [x] ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
 - [x] ~~Alataljan V-kahda vaatii pientä huoltoa~~ Fiksattu
 - [x] ~~Vatsalihasrullan pultti on kadonnut~~ Varapultti asennettu
 - [x] ~~Alataljan penkki ei kosketa maahan~~ Säädetty
 
-### Kuntopyörät
+#### Kuntopyörät
 - [ ] Satulan korkeudensäätö ei lukitu uusissa (ja toisessa vanhassa) pyörissä
 - [ ] Yhdestä pyörästä puuttuu jalkaremmit
 - [x] ~~Uudemmat pyörät näyttävät "ERR1"-virhettä~~ Korjaantui patterien vaihdolla
 - [x] ~~Yksi uusista pyöristä pitää metallista kahinaa~~ Vika korjaantui kääntämällä jarrupalaa 180°
 - [x] ~~Vanhemman pyörän satula heiluu~~ Pultit kiristetty
 
-## Ehdotukset
+### Ehdotukset
 
-### Välineet
+#### Välineet
 - [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi
 - [ ] Vaihda kapeamman penkin pehmuste leveämpään ja pitävämpään
 - **Ostot:**
@@ -39,7 +39,7 @@
   - [x] ~~Kuminauhoja~~ Toimitettu
   - [x] ~~Lisää kahvoja taljoihin~~ Toimitettu
 
-### Tilat
+#### Tilat
 
 - [ ] Latauspiste puhelimille, kuulokkeille, jne.
 - [ ] Ilmastoinnin säätäminen kesää varten
@@ -48,9 +48,9 @@
 - [x] ~~Ensiapulaatikko~~ Tilattu, asennetaan pian
 - [x] ~~Löytätavaralaatikko~~ Toimitettu
 
-### Toiminta
+#### Toiminta
 - [ ] Mave-tilan on raportoitu tuottavan häiriöitä A-talon asukkaille.
 - [ ] MobilePay-tili perustaminen kolehdin keräämiseksi 
 
-### Tapahtumat
+#### Tapahtumat
 - [ ] Painonnostokilpailut?
