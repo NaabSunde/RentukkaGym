@@ -1,4 +1,4 @@
-# Kuntosalivastaavan lista
+# Asukastoimikunnan kuntosalivastaavan lista
 [(In English)](README.md)
 
 ## Korjauskohteet
