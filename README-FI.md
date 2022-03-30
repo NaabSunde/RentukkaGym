@@ -1,5 +1,5 @@
 # Asukastoimikunnan kuntosalivastaavan lista
-[(In English)](README.md)
+[(In English)](README.md) - [Linkki Instagram-profiiliini](https://www.instagram.com/s_u_n_d_e/)
 
 ## Korjauskohteet
 
