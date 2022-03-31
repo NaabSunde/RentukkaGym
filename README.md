@@ -23,19 +23,20 @@
 - [ ] Fix the benches to each other or to the floor to prevent them from moving.
 - [ ] Change the narrower benches' padding to a wider one
 - **Purchases:**
+  - [ ] Medicine balls
   - [ ] A small steel brush to clean knurlings
   - [ ] Spare weight stickers for the equipment
   - [ ] Set of heavier dumbbells (35, 40, 45, 50kg)
   - [ ] Four 20kg plates
   - [ ] A new bar
   - [ ] Treadmill
-  - [ ] Jumping boxes
   - [ ] Weight-lifting straps
   - [ ] More weights for the cable machines
   - [ ] New leg press (maybe a Hack-squat machine?)
   - [ ] More kettlebells
   - [ ] Safety bars to the bench presses'
   - [ ] A bar pad with larger circumference to the Smith machine
+  - [x] ~~Jumping boxes~~ Ordered, but not yet delivered
   - [x] ~~Bar pad~~ Delivered 
   - [x] ~~Elastic bands~~ Delivered
   - [x] ~~More attachments to the cable machines~~ Delivered
