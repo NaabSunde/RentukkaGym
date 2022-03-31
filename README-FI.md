@@ -23,19 +23,20 @@
 - [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi
 - [ ] Vaihda kapeamman penkin pehmuste leveämpään ja pitävämpään
 - **Ostot:**
+-   [ ] Kuntopalloja
   - [ ] Pieni teräsharja tankojen karhennusten puhdistamiseen
   - [ ] Varapainotarroja taljoihin ja muihin laitteisiin
   - [ ] Painavempia käsipainoja (35, 40, 45, 50kg)
   - [ ] Neljä 20kg levypainoa
   - [ ] Uusi tanko
   - [ ] Juoksumatto
-  - [ ] Hyppybokseja
   - [ ] Vetoremmit
   - [ ] Lisää painoja taljoihin
   - [ ] Uusi jalkaprässi (ehkä Hack-kyykkylaite?)
   - [ ] Lisää kahvakuulia
   - [ ] Turvaraudallinen penkki tai irtonaiset raudat
   - [ ] Suurempi tangonpehmuste Smith-kyykkylaitteen paksumpaa tankoa varten
+  - [x] ~~Hyppybokseja~~ Tilattu, jälkitoimituksessa
   - [x] ~~Tangonpehmuste~~ Toimitettu
   - [x] ~~Kuminauhoja~~ Toimitettu
   - [x] ~~Lisää kahvoja taljoihin~~ Toimitettu
