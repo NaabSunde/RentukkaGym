@@ -4,7 +4,7 @@
 ### Issues
 
 #### Equipment
-- [ ] The treadmill's belt might be broken, treadmill is out-of-service at the moment
+- [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should(TM) be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
 - [x] ~~The lower seated row's V-handle needs some attention~~ DIY fixed
 - [x] ~~Abdominal roller is missing a bolt~~ Found a replacement
