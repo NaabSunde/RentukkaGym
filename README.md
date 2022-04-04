@@ -4,6 +4,7 @@
 ### Issues
 
 #### Equipment
+- [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
 - [x] ~~The lower seated row's V-handle needs some attention~~ DIY fixed
@@ -43,6 +44,7 @@
 
 #### Premises
 
+- [ ] When does the gym open? Are the doors still in winter time?
 - [ ] Charger spot for phones, headphones, etc.
 - [ ] Adjusting the ventilation for the summer
 - [ ] Half-height curtains to block out some of the sun
