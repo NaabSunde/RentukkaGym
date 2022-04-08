@@ -5,6 +5,7 @@
 
 #### Välineet
 - [ ] Juoksumaton hihna taitaa olla EOL, toistaiseksi käyttökiellossa
+- [x] Puupalikka on aiheuttanut useita vahinkoja, joten se korvataan kunnollisella steppilaudalla. Käyttäkää sillä välin levypainoja pohkeiden treenaamiseen.
 - [x] ~~Juoksumaton hihna taitaa olla entinen, toistaiseksi käyttökiellossa~~ Purettu, putsattu ja kasattu. Pitäisi™ toimia, mutta pitäkää silmät auki
 - [x] ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
 - [x] ~~Alataljan V-kahda vaatii pientä huoltoa~~ Fiksattu
@@ -24,7 +25,8 @@
 - [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi
 - [ ] Vaihda kapeamman penkin pehmuste leveämpään ja pitävämpään
 - **Ostot:**
--   [ ] Kuntopalloja
+  - [ ] Steppilauta 
+  - [ ] Kuntopalloja
   - [ ] Pieni teräsharja tankojen karhennusten puhdistamiseen
   - [ ] Varapainotarroja taljoihin ja muihin laitteisiin
   - [ ] Painavempia käsipainoja (35, 40, 45, 50kg)
