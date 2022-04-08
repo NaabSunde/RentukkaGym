@@ -5,6 +5,7 @@
 
 #### Equipment
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
+- [ ] One inclined bench is missing a plastic cover
 - [x] The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
@@ -14,6 +15,7 @@
 
 #### Bikes
 - [ ] The seat's height locking mechanism in the newer bikes (and in one of the older bikes as well) isn't working
+- [ ] One old bike is missing a bar tightening bolt 
 - [ ] One bike is missing foot straps
 - [x] ~~The newer bikes screens are in "ERR1" state~~ Replaced the batteries
 - [x] ~~One of the bikes is screeching loudly~~ Dissassembled the breaking pad and rotated it 180°
