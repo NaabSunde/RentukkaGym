@@ -6,7 +6,7 @@
 #### Equipment
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
 - [ ] One inclined bench is missing a plastic cover
-- [x] The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.
+- [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
 - [x] ~~The lower seated row's V-handle needs some attention~~ DIY fixed
@@ -53,7 +53,7 @@
 - [ ] Adjusting the ventilation for the summer
 - [ ] Half-height curtains to block out some of the sun
 - [ ] Couple of industrial fans to circulate the air
-- [x] ~~First-aid-box~~ Ordered, will be installed soon
+- [x] ~~First-aid-box~~ Installed
 - [x] ~~'Lost and found box' for found items~~ Added
 
 #### Operation
