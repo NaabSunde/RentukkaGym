@@ -6,7 +6,7 @@
 #### Välineet
 - [ ] Juoksumaton hihna taitaa olla EOL, toistaiseksi käyttökiellossa
 - [ ] Vinopenkin jalan muoviosa on rikki
-- [x] ~~Puupalikka on aiheuttanut useita vahinkoja, joten se korvataan kunnollisella steppilaudalla. Käyttäkää sillä välin levypainoja pohkeiden treenaamiseen.~~Fiksattu, toivottavasti kestää
+- [x] ~~Puupalikka on aiheuttanut useita vahinkoja, joten se korvataan kunnollisella steppilaudalla. Käyttäkää sillä välin levypainoja pohkeiden treenaamiseen.~~ Fiksattu, toivottavasti kestää
 - [x] ~~Juoksumaton hihna taitaa olla entinen, toistaiseksi käyttökiellossa~~ Purettu, putsattu ja kasattu. Pitäisi™ toimia, mutta pitäkää silmät auki
 - [x] ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
 - [x] ~~Alataljan V-kahda vaatii pientä huoltoa~~ Fiksattu
