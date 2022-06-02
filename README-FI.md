@@ -1,10 +1,13 @@
 ## Asukastoimikunnan kuntosalivastaavan lista
 [(In English)](README.md) - [Linkki Instagram-profiiliini](https://www.instagram.com/s_u_n_d_e/)
 
+### [Välineet](Items.md)
+
 ### Korjauskohteet
 
 #### Välineet
 - [ ] Juoksumaton hihna taitaa olla EOL, toistaiseksi käyttökiellossa
+  - Uusi hihna tilattu huhtikuussa, Precorin viimeisen (23.05.2022) infon mukaan osa ei ole vielä saapunut Ruotsin keskusvarastolle...
 - [ ] Vinopenkin jalan muoviosa on rikki
 - [x] ~~Puupalikka on aiheuttanut useita vahinkoja, joten se korvataan kunnollisella steppilaudalla. Käyttäkää sillä välin levypainoja pohkeiden treenaamiseen.~~ Fiksattu, toivottavasti kestää
 - [x] ~~Juoksumaton hihna taitaa olla entinen, toistaiseksi käyttökiellossa~~ Purettu, putsattu ja kasattu. Pitäisi™ toimia, mutta pitäkää silmät auki
