@@ -1,10 +1,13 @@
 ## Tenants' Committee's Gym Attendant's list
 [(In Finnish)](README-FI.md) - [Link to my Instagram profile](https://www.instagram.com/s_u_n_d_e/)
 
+### [Equipment](Items.md)
+
 ### Issues
 
 #### Equipment
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
+   - Update: New belt was ordered in April, last update from Precor (23.05.2022) was that they are still waiting for it to arrive to their main warehouse in Sweden... 
 - [ ] One inclined bench is missing a plastic cover
 - [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
