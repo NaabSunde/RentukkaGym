@@ -35,13 +35,18 @@
 
 ### Equipment
 - 2 x Bosu ball
+- 1 x Balance ball
 - 2 x Incline bench
 - 2 x Bench press bench
 - 1 x Bench
 - 2 x Ab bench
 - 1 x Lower back bench
 
-### Machines (to be continued)
+### Machines
+- 1 x Leg Press / Calf Extension
+- 1 x Leg Extension
+- 1 x Seated Leg Curl
+- 1 x Back Extension 
 - 2 x Rowing machine
 - 4 x Stationary bike
 - 1 x Crosstrainer
@@ -49,7 +54,8 @@
 - 1 x Squat rack
 - 1 x Smith machine
 - 1 x Pullover
-- 1 x 
+- 1 x Cable machine
+- 1 x Preacher Curl Bench 
 
 ### Others
 - 5 x Broomstick
@@ -63,6 +69,7 @@
 - 3 x Massage roller
 - 2 x Ankle strap
 - 1 x Landmine attachment
+- 1 x Shitty-ass radio
 
 ## Weight-lifting room
 
