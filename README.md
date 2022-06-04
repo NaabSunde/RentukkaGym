@@ -56,6 +56,8 @@
 - [ ] Adjusting the ventilation for the summer
 - [ ] Half-height curtains to block out some of the sun
 - [ ] Couple of industrial fans to circulate the air
+- [ ] Wall bars?
+- [ ] Shelves are kind of a waste of space - might get rid of at least one
 - [x] ~~First-aid-box~~ Installed
 - [x] ~~'Lost and found box' for found items~~ Added
 
