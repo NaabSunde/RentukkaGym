@@ -56,6 +56,8 @@
 - [ ] Ilmastoinnin säätäminen kesää varten
 - [ ] Puolikorkeat verhot ikkunoihin vähentämään auringon porotusta
 - [ ] Muutamat teollisuustuulettimet kierrättämään ilmaa
+- [ ] Puolapuut jollekin seinälle?
+- [ ] Hyllyt ovat hieman turhia - ainakin toisesta voisi varmaan luopua
 - [x] ~~Ensiapulaatikko~~ Asennettu
 - [x] ~~Löytätavaralaatikko~~ Toimitettu
 
