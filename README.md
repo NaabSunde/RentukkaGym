@@ -17,9 +17,9 @@
 - [x] ~~Lower seated row's bench isn't adjusted correctly~~ Adjusted
 
 #### Bikes
-- [ ] The seat's height locking mechanism in the newer bikes (and in one of the older bikes as well) isn't working
 - [ ] One old bike is missing a bar tightening bolt 
 - [ ] One bike is missing foot straps
+- [x] ~~The seat's height locking mechanism in the newer bikes (and in one of the older bikes as well) isn't working~~ Newer bikes are now fixed!
 - [x] ~~The newer bikes screens are in "ERR1" state~~ Replaced the batteries
 - [x] ~~One of the bikes is screeching loudly~~ Dissassembled the breaking pad and rotated it 180°
 - [x] ~~One of the older bike's seats is not stable~~ Tightened the bolts
@@ -28,7 +28,8 @@
 
 #### Equipment
 - [ ] Fix the benches to each other or to the floor to prevent them from moving.
-- [ ] Change the narrower benches' padding to a wider one
+    - Update: Asked Soihtu to install rubber pads to the other bench to stop it from shifting.
+- [ ] Change the narrower benches' padding to a wider one.
 - **Purchases:**
   - [ ] Step board
   - [ ] Medicine balls
@@ -53,11 +54,13 @@
 
 - [ ] When does the gym open? Are the doors still in winter time?
 - [ ] Charger spot for phones, headphones, etc.
-- [ ] Adjusting the ventilation for the summer
+
 - [ ] Half-height curtains to block out some of the sun
-- [ ] Couple of industrial fans to circulate the air
 - [ ] Wall bars?
 - [ ] Shelves are kind of a waste of space - might get rid of at least one
+- [x] ~~Adjusting the ventilation for the summer~~ Ventilation is as now cool as possible according to Soihtu
+- [x] ~~Couple of industrial fans to circulate the air~~ They aren't exactly industrial, but it is what it is ¯\\\_(ツ)_/¯
+- [x] ~~Rearrange the machines to be a bit more space-efficient~~ Moved the Precor machines to a triangle
 - [x] ~~First-aid-box~~ Installed
 - [x] ~~'Lost and found box' for found items~~ Added
 
