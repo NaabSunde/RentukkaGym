@@ -17,9 +17,10 @@
 - [x] ~~Alataljan penkki ei kosketa maahan~~ Säädetty
 
 #### Kuntopyörät
-- [ ] Satulan korkeudensäätö ei lukitu uusissa (ja toisessa vanhassa) pyörissä
+
 - [ ] Yhden vanhan pyörän tangon kiristystappi puuttuu
 - [ ] Yhdestä pyörästä puuttuu jalkaremmit
+- [x] ~~Satulan korkeudensäätö ei lukitu uusissa (ja toisessa vanhassa) pyörissä~~ Uudemmat korjattu!
 - [x] ~~Uudemmat pyörät näyttävät "ERR1"-virhettä~~ Korjaantui patterien vaihdolla
 - [x] ~~Yksi uusista pyöristä pitää metallista kahinaa~~ Vika korjaantui kääntämällä jarrupalaa 180°
 - [x] ~~Vanhemman pyörän satula heiluu~~ Pultit kiristetty
@@ -27,8 +28,10 @@
 ### Ehdotukset
 
 #### Välineet
-- [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi
+
 - [ ] Vaihda kapeamman penkin pehmuste leveämpään ja pitävämpään
+- [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi 
+    - Päivitys: Soihdulta on pyydetty kumitassuja toiseen penkkiin
 - **Ostot:**
   - [ ] Steppilauta 
   - [ ] Kuntopalloja
@@ -53,11 +56,11 @@
 
 - [ ] Aukeaako sali mihin aikaan? Ovatko lukot vielä talviajassa?
 - [ ] Latauspiste puhelimille, kuulokkeille, jne.
-- [ ] Ilmastoinnin säätäminen kesää varten
 - [ ] Puolikorkeat verhot ikkunoihin vähentämään auringon porotusta
-- [ ] Muutamat teollisuustuulettimet kierrättämään ilmaa
 - [ ] Puolapuut jollekin seinälle?
 - [ ] Hyllyt ovat hieman turhia - ainakin toisesta voisi varmaan luopua
+- [x] ~~Muutamat teollisuustuulettimet kierrättämään ilmaa~~ Ei nuo ihan teollisuustasoisia ole, mutta minkäs teet
+- [x] ~~Ilmastoinnin säätäminen kesää varten~~ Soihdun mukaan ilmastointi on jo niin kovalla kuin voi olla
 - [x] ~~Ensiapulaatikko~~ Asennettu
 - [x] ~~Löytätavaralaatikko~~ Toimitettu
 
