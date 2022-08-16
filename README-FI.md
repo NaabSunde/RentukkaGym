@@ -33,20 +33,20 @@
 - [ ] Kiinnitä penkkipunnerruspenkit toisiinsa jotta ne eivät liikkuisi 
     - Päivitys: Soihdulta on pyydetty kumitassuja toiseen penkkiin
 - **Ostot:**
-  - [ ] Steppilauta 
-  - [ ] Kuntopalloja
-  - [ ] Pieni teräsharja tankojen karhennusten puhdistamiseen
   - [ ] Varapainotarroja taljoihin ja muihin laitteisiin
   - [ ] Painavempia käsipainoja (35, 40, 45, 50kg)
   - [ ] Neljä 20kg levypainoa
-  - [ ] Uusi tanko
   - [ ] Juoksumatto
-  - [ ] Vetoremmit
   - [ ] Lisää painoja taljoihin
   - [ ] Uusi jalkaprässi (ehkä Hack-kyykkylaite?)
-  - [ ] Lisää kahvakuulia
   - [ ] Turvaraudallinen penkki tai irtonaiset raudat
   - [ ] Suurempi tangonpehmuste Smith-kyykkylaitteen paksumpaa tankoa varten
+  - [x] Vetoremmit Suunniteltu
+  - [x] Lisää kahvakuulia Suunniteltu
+  - [x] Uusi tanko Suunniteltu
+  - [x] Steppilauta Suunniteltu
+  - [x] Kuntopalloja Suunniteltu
+  - [x] Pieni teräsharja tankojen karhennusten puhdistamiseen
   - [x] ~~Hyppybokseja~~ Tilattu, jälkitoimituksessa
   - [x] ~~Tangonpehmuste~~ Toimitettu
   - [x] ~~Kuminauhoja~~ Toimitettu
