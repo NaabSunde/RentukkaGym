@@ -41,12 +41,12 @@
   - [ ] Uusi jalkaprässi (ehkä Hack-kyykkylaite?)
   - [ ] Turvaraudallinen penkki tai irtonaiset raudat
   - [ ] Suurempi tangonpehmuste Smith-kyykkylaitteen paksumpaa tankoa varten
-  - [x] Vetoremmit Suunniteltu
-  - [x] Lisää kahvakuulia Suunniteltu
-  - [x] Uusi tanko Suunniteltu
-  - [x] Steppilauta Suunniteltu
-  - [x] Kuntopalloja Suunniteltu
-  - [x] Pieni teräsharja tankojen karhennusten puhdistamiseen
+  - [x] Lisää kahvakuulia - Suunniteltu
+  - [x] Uusi tanko - Suunniteltu
+  - [x] Steppilauta - Suunniteltu
+  - [x] Kuntopalloja - Suunniteltu
+  - [x] ~~Vetoremmit~~ Joku ystävällinen sielu on lahjoittanut omansa salille, kiitos!
+  - [x] ~~Pieni teräsharja tankojen karhennusten puhdistamiseen~~ Tangot putsataan nyt viikottain
   - [x] ~~Hyppybokseja~~ Tilattu, jälkitoimituksessa
   - [x] ~~Tangonpehmuste~~ Toimitettu
   - [x] ~~Kuminauhoja~~ Toimitettu
