@@ -31,20 +31,20 @@
     - Update: Asked Soihtu to install rubber pads to the other bench to stop it from shifting.
 - [ ] Change the narrower benches' padding to a wider one.
 - **Purchases:**
-  - [ ] Step board
-  - [ ] Medicine balls
-  - [ ] A small steel brush to clean knurlings
   - [ ] Spare weight stickers for the equipment
   - [ ] Set of heavier dumbbells (35, 40, 45, 50kg)
   - [ ] Four 20kg plates
-  - [ ] A new bar
   - [ ] Treadmill
-  - [ ] Weight-lifting straps
   - [ ] More weights for the cable machines
   - [ ] New leg press (maybe a Hack-squat machine?)
-  - [ ] More kettlebells
   - [ ] Safety bars to the bench presses'
   - [ ] A bar pad with larger circumference to the Smith machine
+  - [x] A new bar - Planned
+  - [x] More kettlebells - Planned
+  - [x] Step board - Planned
+  - [x] Medicine balls - Planned
+  - [x] ~~A small steel brush to clean knurlings~~ Barbells are now brushed weekly
+  - [x] ~~Weight-lifting straps~~ Somebody has kindly left their's to the gym, thank you! 
   - [x] ~~Jumping boxes~~ Ordered, but not yet delivered
   - [x] ~~Bar pad~~ Delivered 
   - [x] ~~Elastic bands~~ Delivered
