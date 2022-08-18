@@ -1,6 +1,14 @@
 ## Asukastoimikunnan kuntosalivastaavan lista
 [(In English)](README.md) - [Linkki Instagram-profiiliini](https://www.instagram.com/sund_berg/)
 
+## Kiitos kyselyihin vastanneille! Vastaukset ohjaavat tulevaa tilausta ja sain myös uusia korjaustarpeita selville! 
+
+### Kyselyn vastauksia
+![kuva](https://user-images.githubusercontent.com/9089790/185351325-c9881798-3da9-4d49-b0e2-f0e403677d0b.png)
+
+### Alustava lista ostoksista
+![kuva](https://user-images.githubusercontent.com/9089790/185351543-85fb7f50-115b-4504-ae0b-1c4387172c1d.png)
+
 ### [Välineet](Items.md)
 
 ### Korjauskohteet
@@ -8,7 +16,10 @@
 #### Välineet
 - [ ] Juoksumaton hihna taitaa olla EOL, toistaiseksi käyttökiellossa
   - Uusi hihna tilattu huhtikuussa, Precorin viimeisen (23.05.2022) infon mukaan osa ei ole vielä saapunut Ruotsin keskusvarastolle...
+  - Tilannepäivitystä pyydetty 17.08.2022.
 - [ ] Vinopenkin jalan muoviosa on rikki
+- [ ] Soutulaitteiden kevythuoltoa toivottu
+- [ ] Soutulaitteen jalkaremmi rikki, toinen näyttö temppuilee
 - [x] ~~Puupalikka on aiheuttanut useita vahinkoja, joten se korvataan kunnollisella steppilaudalla. Käyttäkää sillä välin levypainoja pohkeiden treenaamiseen.~~ Fiksattu, toivottavasti kestää
 - [x] ~~Juoksumaton hihna taitaa olla entinen, toistaiseksi käyttökiellossa~~ Purettu, putsattu ja kasattu. Pitäisi™ toimia, mutta pitäkää silmät auki
 - [x] ~~Kyykkyhäkin pultit ovat hieman löysällä ja yksi puuttuu~~ Pultit kiristetty, yksi puuttuu edelleen
