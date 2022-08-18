@@ -1,13 +1,25 @@
 ## Tenants' Committee's Gym Attendant's list
 [(In Finnish)](README-FI.md) - [Link to my Instagram profile](https://www.instagram.com/sund_berg/)
 
+## Big thanks to everyone who filled my questionnaire! Your responses will guide me on the next purchase, and I'm now aware of some issues with the equipment!
+
+### Responses (in Finnish, unfortunately)
+![kuva](https://user-images.githubusercontent.com/9089790/185351325-c9881798-3da9-4d49-b0e2-f0e403677d0b.png)
+
+### Initial shopping list (in Finnish, once again)
+![kuva](https://user-images.githubusercontent.com/9089790/185351543-85fb7f50-115b-4504-ae0b-1c4387172c1d.png)
+
 ### [Equipment](Items.md)
+
 
 ### Issues
 
 #### Equipment
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
    - Update: New belt was ordered in April, last update from Precor (23.05.2022) was that they are still waiting for it to arrive to their main warehouse in Sweden... 
+   - A new update was requested on 17.08.2022
+- [ ] Light maintenance was requested for the rowing machines
+- [ ] One feet strap is broken on a rowing machine, the screen is also acting up
 - [ ] One inclined bench is missing a plastic cover
 - [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
