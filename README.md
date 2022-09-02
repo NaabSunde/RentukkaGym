@@ -1,13 +1,15 @@
 ## Tenants' Committee's Gym Attendant's list
 [(In Finnish)](README-FI.md) - [Link to my Instagram profile](https://www.instagram.com/sund_berg/)
 
-## Big thanks to everyone who filled my questionnaire! Your responses will guide me on the next purchase, and I'm now aware of some issues with the equipment!
+## Info board
+
+- I wish that you take other users into account eg. in your use of cologne! :)
+- Please use the resistance bands responsibly - they aren't cheap nor free
+- Big thanks to everyone who filled my questionnaire! Your responses will guide me on the next purchase, and I'm now aware of some issues with the equipment!
+
 
 ### Responses (in Finnish, unfortunately)
 ![kuva](https://user-images.githubusercontent.com/9089790/185351325-c9881798-3da9-4d49-b0e2-f0e403677d0b.png)
-
-### Initial shopping list (in Finnish, once again)
-![kuva](https://user-images.githubusercontent.com/9089790/185351543-85fb7f50-115b-4504-ae0b-1c4387172c1d.png)
 
 ### [Equipment](Items.md)
 
@@ -18,8 +20,8 @@
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
    - Update: New belt was ordered in April, last update from Precor (23.05.2022) was that they are still waiting for it to arrive to their main warehouse in Sweden... 
    - A new update was requested on 17.08.2022
-- [ ] Light maintenance was requested for the rowing machines
-- [ ] One feet strap is broken on a rowing machine, the screen is also acting up
+- [x] ~~Light maintenance was requested for the rowing machines~~ Done
+- [x] ~~One feet strap is broken on a rowing machine, the screen is also acting up~~ Fixed, asn't able to replicate the issue with the screen
 - [ ] One inclined bench is missing a plastic cover
 - [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
@@ -42,19 +44,20 @@
 - [ ] Fix the benches to each other or to the floor to prevent them from moving.
     - Update: Asked Soihtu to install rubber pads to the other bench to stop it from shifting.
 - [ ] Change the narrower benches' padding to a wider one.
+- [x] ~~Pull-up bars' and V-handle's grip sucks~~Added some grip tape
 - **Purchases:**
   - [ ] Spare weight stickers for the equipment
-  - [ ] Set of heavier dumbbells (35, 40, 45, 50kg)
   - [ ] Four 20kg plates
   - [ ] Treadmill
   - [ ] More weights for the cable machines
   - [ ] New leg press (maybe a Hack-squat machine?)
   - [ ] Safety bars to the bench presses'
   - [ ] A bar pad with larger circumference to the Smith machine
-  - [x] A new bar - Planned
-  - [x] More kettlebells - Planned
-  - [x] Step board - Planned
-  - [x] Medicine balls - Planned
+  - [x] ~~A new bar~~ Delivered
+  - [x] ~~More kettlebells~~ Delivered 24kg and 36kg kettlebells
+  - [x] ~~Step board~~ Delivered
+  - [x] ~~Medicine balls~~ Delivered a wrong one, hold on please!
+  - [x] ~~Set of heavier dumbbells (35, 40, 45, 50kg)~~ Bought plate dumbbells for the big guys 
   - [x] ~~A small steel brush to clean knurlings~~ Barbells are now brushed weekly
   - [x] ~~Weight-lifting straps~~ Somebody has kindly left their's to the gym, thank you! 
   - [x] ~~Jumping boxes~~ Ordered, but not yet delivered
@@ -69,7 +72,7 @@
 
 - [ ] Half-height curtains to block out some of the sun
 - [ ] Wall bars?
-- [ ] Shelves are kind of a waste of space - might get rid of at least one
+- [x] ~~Shelves are kind of a waste of space - might get rid of at least one~~ Gym has been reorganized
 - [x] ~~Adjusting the ventilation for the summer~~ Ventilation is as now cool as possible according to Soihtu
 - [x] ~~Couple of industrial fans to circulate the air~~ They aren't exactly industrial, but it is what it is ¯\\\_(ツ)_/¯
 - [x] ~~Rearrange the machines to be a bit more space-efficient~~ Moved the Precor machines to a triangle
@@ -77,7 +80,7 @@
 - [x] ~~'Lost and found box' for found items~~ Added
 
 #### Operation
-- [ ] Weight-lifting room has been reported to cause disturbance to the tenant's of the A-building.
+- [x] ~~Weight-lifting room has been reported to cause disturbance to the tenant's of the A-building.~~ Please use the foam pad when deadlifting.
 - [ ] MobilePay account for donations for new purchases
 
 #### Events
