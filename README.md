@@ -3,6 +3,11 @@
 
 ## Info board
 
+- There have been sightings of young children at the gym. I wish that you kindly ask them to leave if their behaviour is not suitable to the gym.
+- However this is not necessary if they have a guardian with them or: 
+   1. they have a permission (Key card) to be there 
+   2. and their training/behaviour looks to be on-point
+   3. and they are not way too young (less than 13-ish year olds)
 - I wish that you take other users into account eg. in your use of cologne! :)
 - Please use the resistance bands responsibly - they aren't cheap nor free
 - Big thanks to everyone who filled my questionnaire! Your responses will guide me on the next purchase, and I'm now aware of some issues with the equipment!
@@ -21,10 +26,10 @@
    - Update: New belt was ordered in April, last update from Precor (23.05.2022) was that they are still waiting for it to arrive to their main warehouse in Sweden... 
    - A new update was requested on 17.08.2022
    - Good news! We're not only getting a new belt, but also a second treadmill!
-- [x] ~~Light maintenance was requested for the rowing machines~~ Done
-- [x] ~~One feet strap is broken on a rowing machine, the screen is also acting up~~ Fixed, asn't able to replicate the issue with the screen
 - [ ] One inclined bench is missing a plastic cover
 - [ ] One cable attachment handke is broken, we're going to buy new pair
+- [x] ~~Light maintenance was requested for the rowing machines~~ Done
+- [x] ~~One feet strap is broken on a rowing machine, the screen is also acting up~~ Fixed, asn't able to replicate the issue with the screen
 - [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
@@ -69,11 +74,12 @@
 
 #### Premises
 
-- [ ] When does the gym open? Are the doors still in winter time?
 - [ ] Charger spot for phones, headphones, etc.
-
 - [ ] Half-height curtains to block out some of the sun
+   - Coming!
 - [ ] Wall bars?
+- [x] ~~When does the gym open? Are the doors still in winter time?~~
+   - 7am to 23pm
 - [x] ~~Shelves are kind of a waste of space - might get rid of at least one~~ Gym has been reorganized
 - [x] ~~Adjusting the ventilation for the summer~~ Ventilation is as now cool as possible according to Soihtu
 - [x] ~~Couple of industrial fans to circulate the air~~ They aren't exactly industrial, but it is what it is ¯\\\_(ツ)_/¯
@@ -82,8 +88,8 @@
 - [x] ~~'Lost and found box' for found items~~ Added
 
 #### Operation
-- [x] ~~Weight-lifting room has been reported to cause disturbance to the tenant's of the A-building.~~ Please use the foam pad when deadlifting.
 - [ ] MobilePay account for donations for new purchases
+- [x] ~~Weight-lifting room has been reported to cause disturbance to the tenant's of the A-building.~~ Please use the foam pad when deadlifting.
 
 #### Events
 - [ ] A weight lifting competetion? 
