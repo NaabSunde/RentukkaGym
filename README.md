@@ -20,9 +20,11 @@
 - [ ] The treadmill's belt seems to be EOL once again, treadmill is out-of-service at the moment.
    - Update: New belt was ordered in April, last update from Precor (23.05.2022) was that they are still waiting for it to arrive to their main warehouse in Sweden... 
    - A new update was requested on 17.08.2022
+   - Good news! We're not only getting a new belt, but also a second treadmill!
 - [x] ~~Light maintenance was requested for the rowing machines~~ Done
 - [x] ~~One feet strap is broken on a rowing machine, the screen is also acting up~~ Fixed, asn't able to replicate the issue with the screen
 - [ ] One inclined bench is missing a plastic cover
+- [ ] One cable attachment handke is broken, we're going to buy new pair
 - [x] ~~The wooden slab has caused multiple accidents, so it will be replaced with a proper step board. Use plates for calve raises in the meantime.~~ DIY fixed, hopefully it'll last
 - [x] ~~The treadmill's belt might be broken, treadmill is out-of-service at the moment~~ Disassembled, cleaned and assembled. Should™ be working now, but keep your eyes open
 - [x] ~~Squat rack's bolts are just a bit loose (and one is missing)~~ Tightened the bolts, one is still missing
