@@ -1,8 +1,13 @@
 ## Asukastoimikunnan kuntosalivastaavan lista
 [(In English)](README.md) - [Linkki Instagram-profiiliini](https://www.instagram.com/sund_berg/)
- 
+
 
 ## Ilmoitustaulu 
+
+### Salin ilmoitustaulun toivomusten tynnyri:
+
+![kuva](https://github.com/NaabSunde/RentukkaGym/assets/9089790/da18263b-2b9e-461f-9580-787aaf42b772)
+
 
 - Toivoisin, että otatte muut salin käyttäjät huomioon mm. hajusteiden käytössä! :)
 - Käytättehän uusia vastuskuminauhoja järkevästi etteivät katkea - ne eivät ole halpoja saatikka ilmaisia
